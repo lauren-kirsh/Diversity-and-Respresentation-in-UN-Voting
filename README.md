@@ -5,11 +5,17 @@
 This repository consists of Jupyter notebooks that explore United Nations General Assembly voting data in 1946 to 2020 published by Erik Voeten (Georgetown University), Anton Strezhnev(Harvard University), and Michael Bailey (Georgetown University). The United Nations General Assembly voting data contains general information about each country, their UN membership, resolution, roll call, and vote. Particularly, we were interested in the "issue codes'' columns that categorize the resolutions and votes into six subjects. These are the issue code:
 
 ME: Votes relating to the Palestinian conflict (19%)
+
 NU: Votes relating to nuclear weapons and nuclear material (13%)
+
 DI: Votes relating to arms control and disarmament (16%)
+
 CO: Votes relating to colonialism (18%)
+
 HR: Votes relating to human rights (17%)
+
 EC: Votes relating to (economic) development (9%)
+
 
 
 ## Goal 
