@@ -2,7 +2,7 @@
 
 ## Background
 
-This repository supports an ongoing lab research project at the Center for Data Science at New York University called "Assessing Diversity and Representation in the United Nations" that explores the intersection of Algorithmic Fairness and Computational Social Choice.
+This repository supports an ongoing lab research project at the Center for Data Science at New York University called "Assessing Diversity and Representation in the United Nations" that explores the intersection of Algorithmic Fairness and Computational Social Choice. Particularly, the research focused on distinguishing diversity and representation, in which diversity is the attribute (i.e., gender) of a canditate and the representation is how that canidate votes (i.e., regarding topics relating to gender). Candidate attributes and voter attributes are often not aligned, and therefore they need to be considered separately when it comes to developing voting committees in the United Nations. 
 
 ## About the Data
 
